@@ -21,7 +21,7 @@
 
 ## 意见或建议
 
-如果你有什么好的意见和建议，可以随时通过 [Issues](issues) 提出。
+如果你有什么好的意见和建议，可以随时通过 [Issues](https://gitee.com/lagoufed/fed-e-002/issues) 提出。
 
 还是那句话 Issues 不是贴吧，请勿灌水 😄😄😄。
 
