@@ -6,7 +6,7 @@
 
 在学习中心将仓库链接地址提交：
 
-![](http://ww1.sinaimg.cn/large/75d767ddgy1gfkuttq5jmj20re0fmdh2.jpg)
+![](https://images.gitee.com/uploads/images/2020/0608/141842_73c77860_66159.png)
 
 ## 提交内容要求
 
