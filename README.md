@@ -9,15 +9,15 @@
 ## Table of Contents
 
 - 录播部分
-  + [录播部分代码](code)
-  + [录播部分讲义](handout)
-  + [录播学习笔记](note)
+  + [录播部分代码](codes)
+  + [录播部分讲义](handouts)
+  + [录播学习笔记](notes)
 - 直播部分
   + [直播内容归档](live)
 - 日常部分
-  + [面试题归档](interview)
-  + 随堂测试归档
-  + 模块作业归档
+  + [面试题归档](interviews)
+  + [随堂测试归档](tests)
+  + [模块作业归档](tasks)
 
 ## 意见或建议
 
