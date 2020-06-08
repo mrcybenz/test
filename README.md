@@ -1,37 +1,30 @@
-# 大前端高薪训练营002期
+# 大前端高薪训练营 002 期
 
-#### 介绍
-大前端高薪训练营002期相关资料
+> 大前端高薪训练营 002 期相关资料
 
-#### 软件架构
-软件架构说明
+[大前端高薪训练营入营资料](prepare)
 
+我们会随着学习计划，同步更新此仓库中对应的相关资料。
 
-#### 安装教程
+## Table of Contents
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 录播部分
+  + [录播部分代码](code)
+  + [录播部分讲义](handout)
+  + [录播学习笔记](note)
+- 直播部分
+  + [直播内容归档](live)
+- 日常部分
+  + [面试题归档](interview)
+  + 随堂测试归档
+  + 模块作业归档
 
-#### 使用说明
+## 意见或建议
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+如果你有什么好的意见和建议，可以随时通过 [Issues](issues) 提出。
 
-#### 参与贡献
+还是那句话 Issues 不是贴吧，请勿灌水 😄😄😄。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 版权说明
 
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+&copy; 2020 [拉勾教育](https://kaiwu.lagou.com), 保留一切权利.
