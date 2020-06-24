@@ -2,7 +2,7 @@
 
 ## 提交形式
 
-每个作业单独创建一个 Git 仓库，可以选择托管到 [Gitee](https://gitee.com) 或者 [GitHub](https://github.com)。
+每个作业单独创建一个 Git 仓库，可以选择托管到 [Gitee](https://gitee.com) 或者 [GitHub](https://github.com)。（由于网络情况，建议提交到gitee）
 
 在学习中心将仓库链接地址提交：
 
